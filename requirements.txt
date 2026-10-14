@@ -1,0 +1,7 @@
+streamlit==1.65.0
+SQLAlchemy==2.0.54
+psycopg[binary]==3.3.6
+pandas==2.3.3
+openpyxl==3.1.5
+phonenumbers==9.0.41
+tzdata==2026.5
